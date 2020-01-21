@@ -1,0 +1,3 @@
+# wp-plugin-wpcrapremove
+
+Clean up...
